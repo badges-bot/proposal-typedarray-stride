@@ -1,5 +1,7 @@
 # ArrayBufferView stride parameter
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 **Author**: Shu-yu Guo, Surma
 
 **Champion**: Shu-yu Guo
